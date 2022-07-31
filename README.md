@@ -26,7 +26,18 @@
 - JFrame으로 동작하고 멀티 스레드를 이용하여 구현했다.
 - 
 # 실행 화면
+1. 인트로 화면
 ![image](https://user-images.githubusercontent.com/106687047/182035658-1b48a80e-5dbf-4c39-8fb7-27ed64f4445f.png)
+
+2. 곡 선택 화면
+![image](https://user-images.githubusercontent.com/106687047/182035723-af9a0330-6b87-404d-8638-347ecbc30f98.png)
+![image](https://user-images.githubusercontent.com/106687047/182035733-6c9666e4-0dc2-45b4-9bc0-b824ebd36e20.png)
+![image](https://user-images.githubusercontent.com/106687047/182035736-e165ea3e-1501-4f89-a988-74a5778dee87.png)
+
+4. 게임 실행 화면
+![image](https://user-images.githubusercontent.com/106687047/182035770-617c36b3-80b6-4a5c-b5af-67360bff6f93.png)
+![image](https://user-images.githubusercontent.com/106687047/182035774-0ed2bbdc-1ebb-427b-bd85-bc38c2f29ce9.png)
+![image](https://user-images.githubusercontent.com/106687047/182035778-b8af3068-7230-4a09-9dd0-396a10398254.png)
 
 # 스레드 설명
 - Main : 게임 실행 파일.
