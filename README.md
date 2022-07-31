@@ -25,6 +25,9 @@
 - 배경 이미지를 제외 모든 이미지 파일은 그림판, 포토샵을 이용해 제작했다.
 - JFrame으로 동작하고 멀티 스레드를 이용하여 구현했다.
 - 
+# 실행 화면
+![image](https://user-images.githubusercontent.com/106687047/182035658-1b48a80e-5dbf-4c39-8fb7-27ed64f4445f.png)
+
 # 스레드 설명
 - Main : 게임 실행 파일.
 - DynamicBeat :
