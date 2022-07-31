@@ -43,9 +43,9 @@
 - Main : 게임 실행 파일.
 - DynamicBeat :
 - Music :
-- Game : 
-- Note :
-- Track :
-- Beat : 
-- KeyListener :
+- Game : 게임 화면, 노트 판정 등 구현
+- Note : 떨어지는 노트 속도, 갯수 설정
+- Track : 곡 선택 화면에서 보여지는 곡 정보, mp3등 저장
+- Beat : 떨어지는 노트 정보 저장
+- KeyListener : 키 입력 함수
 # 어려웠던 점
