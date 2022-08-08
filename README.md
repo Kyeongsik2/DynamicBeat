@@ -29,14 +29,19 @@
 
 # 실행 화면
 1. 인트로 화면
+- 게임 실행시 바로 보이는 화면
+- 게임 실행, 게임 종료, 우측 상단에 프로그램 종료 버튼이 활성화 되어있다.
 ![image](https://user-images.githubusercontent.com/106687047/182035658-1b48a80e-5dbf-4c39-8fb7-27ed64f4445f.png)
 
 2. 곡 선택 화면
+- 양 쪽 버튼을 이용해 노래를 선택할 수 있다. 선택되는 노래가 재생된다.
 ![image](https://user-images.githubusercontent.com/106687047/182035723-af9a0330-6b87-404d-8638-347ecbc30f98.png)
 ![image](https://user-images.githubusercontent.com/106687047/182035733-6c9666e4-0dc2-45b4-9bc0-b824ebd36e20.png)
 ![image](https://user-images.githubusercontent.com/106687047/182035736-e165ea3e-1501-4f89-a988-74a5778dee87.png)
 
 4. 게임 실행 화면
+- 노래에 따라 노트가 떨어진다.
+- 노트 판정 기준은 노트의 y축 값을 기준으로 Early, Miss, Good, Great, Perfect로 출력 되도록 설정했다.
 ![image](https://user-images.githubusercontent.com/106687047/182035770-617c36b3-80b6-4a5c-b5af-67360bff6f93.png)
 ![image](https://user-images.githubusercontent.com/106687047/182035774-0ed2bbdc-1ebb-427b-bd85-bc38c2f29ce9.png)
 ![image](https://user-images.githubusercontent.com/106687047/182035778-b8af3068-7230-4a09-9dd0-396a10398254.png)
